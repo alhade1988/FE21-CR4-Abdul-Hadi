@@ -1,0 +1,77 @@
+let movis = `[{
+
+    "movieName": "Top Gun",
+
+    "image": "https://cdn.pixabay.com/photo/2022/06/28/07/51/mallard-7289072_960_720.jpg",
+
+    "description": "Top Gun: Maverick is an American action-drama film in preparation directed by Joseph Kosinski, produced by Jerry Bruckheimer, Tom Cruise and David Ellison, and written by Erin Krueger, Eric Warren Singer and Christopher McQuarrie.The film is a sequel to Top Gun .",
+
+    "likes": 0
+},
+    
+    {
+
+        "movieName": "Jurassic World Dominion",
+    
+        "image": "https://cdn.pixabay.com/photo/2022/06/28/07/51/mallard-7289072_960_720.jpg",
+    
+        "description": "Jurassic World Domination is an upcoming American science fiction adventure film scheduled for release in 2021. Directed and written by Colin Trevorrow. The film is the sixth in the Jurassic Park series, written by Colin Trevorrow and Emily Karamichel. <br>",
+    
+        "likes": 0
+    
+       
+    
+      },
+      {
+
+        "movieName": "Elvis",
+    
+        "image": "https://cdn.pixabay.com/photo/2022/06/28/07/51/mallard-7289072_960_720.jpg",
+    
+        "description": "Elvis is an upcoming American biographical film about the life of American singer Elvis Presley directed by Baz Luhrmann and starring Austin Butler and Tom Hanks. The film is scheduled to be released in the United States on November 5, 2021.<br>",
+    
+        "likes": 0
+    
+       
+    
+      },
+      {
+
+        "movieName": "The Black Phone",
+    
+        "image": "https://cdn.pixabay.com/photo/2022/06/28/07/51/mallard-7289072_960_720.jpg",
+    
+        "description": "The Black Phone is an American horror film directed by Scott Derrickson and produced by Jason Bloom and starring Ethan Hawke, Jeremy Davis and James Ranson. The film is scheduled to be released in cinemas on February 4, 2022.<br><br><br><br><br>",
+    
+        "likes": 0
+    
+       
+    
+      },
+      {
+
+        "movieName": "Lightyear",
+    
+        "image": "https://cdn.pixabay.com/photo/2022/06/28/07/51/mallard-7289072_960_720.jpg",
+    
+        "description": "Lightyear is an American science fiction adventure film produced by Pixar Studios and Walt Disney Films. It is adapted from the movie Toy Story, as the origin story of the human space ranger Buzz Tayar, who inspired the work that bears his name. The film is directed by Angus MacLean and voices Chris Evans.<br><br><br>",
+    
+        "likes": 0
+    
+       
+    
+      },
+      {
+
+        "movieName": "Doctor Strange In The Multiverse Of Madness",
+    
+        "image": "https://cdn.pixabay.com/photo/2022/06/28/07/51/mallard-7289072_960_720.jpg",
+    
+        "description": "Doctor Strange in the Multiverse of Madness is an upcoming American superhero film produced by Marvel Studios and distributed by Walt Disney Studios Motion Pictures, and is the sequel to Dr. Strange, the 28th film in the Marvel Cinematic Universe. The film is directed by Sam Raimi and starring Benedict Cumberbatch, Elizabeth Olsen. Benedict Wong and Rachel McAdams.",
+    
+        "likes": 0
+    
+       
+    
+      }
+     ]`;
