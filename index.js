@@ -31,6 +31,6 @@ for (let i = 0; i < btns.length; i++) {
 }
 let btns1 = document.getElementById("sort");
 btns1.addEventListener("click", function() {
-    movisjson.sort((a, b) => a.likes - b.likes);
+    movisjson.sort((a, b) => b.likes - a.likes);
     console.table(movisjson)
 })
