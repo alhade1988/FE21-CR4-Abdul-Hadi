@@ -1,6 +1,5 @@
 let movisjson = JSON.parse(movis);
 
-
 for (let val of movisjson) {
     document.getElementById("result").innerHTML += `
     <div class="row-cols-1 row-cols-md-2 row-cols-lg-3">
@@ -38,6 +37,8 @@ let btns1 = document.getElementById("sort");
 btns1.addEventListener("click", function() {
     movisjson.sort((a, b) => b.likes - a.likes);
 
+
+
     for (let val of movisjson) {
         document.getElementById("result").innerHTML += `
           <div class="row-cols-1 row-cols-md-2 row-cols-lg-3">
@@ -54,5 +55,11 @@ btns1.addEventListener("click", function() {
 
     }
 
+
+
     console.table(movisjson)
 })
+
+
+
+// for (let val of movisbtjson)
